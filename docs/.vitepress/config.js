@@ -25,7 +25,7 @@ export default {
     ],
 
     socialLinks: [
-      { icon: 'gitee', link: 'https://gitee.com/lancemao/iot' }
+      { icon: 'github', link: 'https://github.com/lancemao/iot-note' }
     ],
 
     sidebar: {
