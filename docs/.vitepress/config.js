@@ -5,12 +5,6 @@ export default {
     siteTitle: '物联网笔记',
     // logo: '/images/logo.png',
 
-    algolia: {
-      appId: 'XO4ITI7GEQ',
-      apiKey: '7175502f11c76d375047ebea8b71e9ac',
-      indexName: 'guardui'
-    },
-
     nav: [
       { text: '概念', link: '/concepts/architecture'},
       { text: '教程', link: '/tutorials/' },
@@ -48,9 +42,7 @@ export default {
           items: [
             { text: '设备分类', link: '/concepts/device/category' },
             { text: '设备注册', link: '/concepts/device/register' },
-            { text: '设备准备', link: '/concepts/device/provisioning' },
             { text: '设备认证', link: '/concepts/device/authentication' },
-            { text: '设备连接', link: '/concepts/device/connect' },
             { text: '设备注销', link: '/concepts/device/delete' },
           ]
         },

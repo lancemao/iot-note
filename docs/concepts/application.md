@@ -11,4 +11,8 @@
 访问控制又可以细分为：
 
 * 用户访问控制。即谁可以访问什么应用。同一企业的员工，其职责不同，可以访问的应用也不同。这也是 IAM（Identity Access Management）最核心的作用。
-* 应用之间的访问控制。即 A 应用可以授权给 B 应用，让 B 应用能使用 A 应用部分或全部的功能或数据。这也是所谓的`机机对接`或者叫 M2M（Machine to Machine）。个人觉得，叫 A2A（Application to Application）可能会更为准确。
+* 应用之间的访问控制。即 A 应用可以授权给 B 应用，让 B 应用能使用 A 应用部分或全部的功能或数据。这也是所谓的`机机对接`或者叫 M2M（Machine to Machine）。
+
+::: tip
+也许叫 A2A（Application to Application）更为准确
+:::
