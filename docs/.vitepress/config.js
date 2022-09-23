@@ -28,7 +28,8 @@ export default {
       '/concepts/': [
         
         {
-          text: '',
+          text: '基础',
+          collapsible: true,
           items: [
             { text: '架构', link: '/concepts/architecture' },
             { text: '租户', link: '/concepts/tenant' },
@@ -47,13 +48,21 @@ export default {
           ]
         },
         {
+          text: '协议',
+          collapsible: true,
+          items: [
+            { text: 'MQTT', link: '/concepts/protocol/mqtt' },
+            { text: 'CoAP', link: '/concepts/protocol/coap' },
+            { text: 'AMQP', link: '/concepts/protocol/amqp' },
+            { text: 'HTTP(s)', link: '/concepts/protocol/http' },
+          ]
+        },
+        {
           text: '数据',
           collapsible: true,
           items: [
-            { text: '数据上报', link: '/concepts/data/initialize' },
-            { text: '数据导出', link: '/concepts/data/logout' },
-            { text: '格式转换', link: '/concepts/data/handle-events' },
-            { text: '数据分析', link: '/concepts/data/get-user-info' },
+            { text: '格式规范', link: '/concepts/data/spec' },
+            { text: '数据分析', link: '/concepts/data/analyze' },
           ]
         },
       ],

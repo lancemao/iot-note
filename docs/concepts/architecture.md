@@ -17,7 +17,7 @@
 <ZoomImg src="./images/jetlinks-iot-architecture.png" />
 
 ::: tip
-相比之下，Jetlinks 的模块会较多是因为 Azure 和阿里本身是云厂商，他们本身就提供很多公共服务，如用户管理，权限管理。
+相比之下，Jetlinks 的模块较多是因为 Azure 和阿里本身是云厂商，他们本身就提供很多公共服务，如用户管理，权限管理。
 :::
 
 由此可见，除了公共服务，IoT 平台的核心功能是设备管理和数据处理。
