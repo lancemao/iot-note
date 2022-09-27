@@ -1,3 +1,3 @@
-# 教程
+# Android SDK
 
 Coming soon...

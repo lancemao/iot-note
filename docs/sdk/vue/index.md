@@ -1,3 +1,3 @@
-# 教程
+# Vue SDK
 
 Coming soon...

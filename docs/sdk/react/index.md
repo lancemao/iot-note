@@ -1,3 +1,3 @@
-# 教程
+# React SDK
 
 Coming soon...

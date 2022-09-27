@@ -1,3 +1,3 @@
-# 教程
+# Device SDK
 
 Coming soon...

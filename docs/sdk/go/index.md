@@ -1,3 +1,3 @@
-# 教程
+# Go SDK
 
 Coming soon...

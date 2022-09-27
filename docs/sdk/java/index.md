@@ -1,3 +1,3 @@
-# 教程
+# Java SDK
 
 Coming soon...

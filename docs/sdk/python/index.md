@@ -1,3 +1,3 @@
-# 教程
+# Python SDK
 
 Coming soon...
