@@ -1,5 +1,5 @@
 export default {
-  title: '',
+  title: '物联网笔记',
   base: '/iot-note/',
   themeConfig: {
     siteTitle: '物联网笔记',
@@ -34,7 +34,8 @@ export default {
             text: '移动端',
             items: [
               { text: 'Android', link: '/sdk/android/' },
-              { text: 'iOS', link: '/sdk/ios/' }
+              { text: 'iOS', link: '/sdk/ios/' },
+              { text: '小程序', link: '/sdk/mp/' }
             ]
           },
           {
